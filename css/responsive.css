@@ -1,0 +1,64 @@
+@media only screen and (max-width: 1224px) {
+		.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show > .nav-link {
+		color: #00c0ff;
+		padding-right: 1.2rem;
+		padding-left: 1.2rem;
+		font-family: 'Raleway', sans-serif;
+	}
+}
+@media only screen and (max-width: 764px){
+	footer .col-md-6{
+		padding-top: 20px;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	footer .col-md-2{
+		padding-top: 50px;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.quotes .col {
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+	.trips-date .col-md-4{
+		padding: 30px;
+	}
+
+}
+@media only screen and (max-width: 667px){
+		.navbar > .container, .navbar > .container-fluid, .navbar > .container-lg, .navbar > .container-md, .navbar > .container-sm, .navbar > .container-xl, .navbar > .container-xxl {
+		display: flex;
+		flex-wrap: inherit;
+		align-items: center;
+		justify-content: space-between;
+		padding-left: 5px; 
+		padding-right: 5px; 
+	}
+	.arrived .col-md-6{
+		padding: 30px;
+	}
+	.buy .buy-content h1{
+		font-size: 3rem;
+	}
+	.buy .btn{
+		width: 120px;
+	}
+	.service-end .container{
+		padding: 30px;
+	}
+	.priority .prior-content p{
+		padding: 30px;
+	}
+	.who .col{
+		padding: 30px;
+	}
+}
+@media only screen and (max-width: 476px){
+		.banner-content h1{
+		position: relative;
+		font-weight: 900;
+		font-size: 5rem;
+		text-shadow: 0px 5px 10px rgba(0, 0, 0, .5);
+	}
+}
