@@ -30,7 +30,7 @@ html,body{
     padding-left: 200px;
     padding-right: 200px;
 }
-.nav-link:hover{
+.banner-section .nav-link:hover{
 	border-top: 1px solid #00c0ff ;
 	border-bottom: 1px solid #00c0ff ;
 	transition: .7s;
